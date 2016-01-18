@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="FaultNotificator.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup>
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0,Profile=Client" />
+    </startup>
+    <userSettings>
+        <FaultNotificator.My.MySettings>
+            <setting name="usrdsk" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="sysadm" serializeAs="String">
+                <value>375296945666</value>
+            </setting>
+            <setting name="director" serializeAs="String">
+                <value>79686436186</value>
+            </setting>
+            <setting name="alert" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="usrsid" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="smsru" serializeAs="String">
+                <value>fc3dc014-9b27-cfd4-21d5-795c7a0fe5ee</value>
+            </setting>
+            <setting name="nameserver" serializeAs="String">
+                <value>hpnotebook</value>
+            </setting>
+            <setting name="from" serializeAs="String">
+                <value>critical-er</value>
+            </setting>
+            <setting name="msgtodir" serializeAs="String">
+                <value>На вашем сервере {servername} произошла ошибка, свяжитесь с службой поддержки по номеру {sysadminnumber}.</value>
+            </setting>
+        </FaultNotificator.My.MySettings>
+    </userSettings>
+</configuration>

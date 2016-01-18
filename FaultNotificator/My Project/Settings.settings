@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="usrdsk" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="sysadm" Type="System.String" Scope="User">
+      <Value Profile="(Default)">375296945666</Value>
+    </Setting>
+    <Setting Name="director" Type="System.String" Scope="User">
+      <Value Profile="(Default)">79686436186</Value>
+    </Setting>
+    <Setting Name="alert" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="usrsid" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="smsru" Type="System.String" Scope="User">
+      <Value Profile="(Default)">fc3dc014-9b27-cfd4-21d5-795c7a0fe5ee</Value>
+    </Setting>
+    <Setting Name="nameserver" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hpnotebook</Value>
+    </Setting>
+    <Setting Name="from" Type="System.String" Scope="User">
+      <Value Profile="(Default)">critical-er</Value>
+    </Setting>
+    <Setting Name="msgtodir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">На вашем сервере {servername} произошла ошибка, свяжитесь с службой поддержки по номеру {sysadminnumber}.</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
