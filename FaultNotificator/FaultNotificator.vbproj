@@ -186,6 +186,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Realese\BuildClickonce.arj" />
+    <None Include="Realese\FaultNotificator.arj" />
     <None Include="Resources\англl - копия.jpg" />
   </ItemGroup>
   <ItemGroup>
